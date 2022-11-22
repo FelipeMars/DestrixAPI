@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Destrix.API", "Destrix.API\Destrix.API.csproj", "{F732C26B-E0D0-41C9-A975-064E7B37DB09}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Destrix.Domain", "Destrix.Domain\Destrix.Domain.csproj", "{DFC35539-BD0C-4783-B09B-887169F2D54A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Destrix.Infra.Data", "Destrix.Infra.Data\Destrix.Infra.Data.csproj", "{CF113E12-1FC8-4DF3-97AF-6B28811BA4C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Destrix.DTO", "Destrix.DTO\Destrix.DTO.csproj", "{43254169-A674-4649-BB3B-282CB9032F5B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Destrix.Application", "Destrix.Application\Destrix.Application.csproj", "{1833B2D9-5889-4AA2-93F9-B129D54BD2F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Destrix.Core", "Destrix.Core\Destrix.Core.csproj", "{1D63D46C-B822-4AAE-A682-D326F4521EB8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B3F7E094-179A-4C23-923D-C5A4FAA2DD94}"
+	ProjectSection(SolutionItems) = preProject
+		Dockerfile = Dockerfile
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F732C26B-E0D0-41C9-A975-064E7B37DB09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F732C26B-E0D0-41C9-A975-064E7B37DB09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F732C26B-E0D0-41C9-A975-064E7B37DB09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F732C26B-E0D0-41C9-A975-064E7B37DB09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC35539-BD0C-4783-B09B-887169F2D54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC35539-BD0C-4783-B09B-887169F2D54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC35539-BD0C-4783-B09B-887169F2D54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC35539-BD0C-4783-B09B-887169F2D54A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF113E12-1FC8-4DF3-97AF-6B28811BA4C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF113E12-1FC8-4DF3-97AF-6B28811BA4C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF113E12-1FC8-4DF3-97AF-6B28811BA4C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF113E12-1FC8-4DF3-97AF-6B28811BA4C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43254169-A674-4649-BB3B-282CB9032F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43254169-A674-4649-BB3B-282CB9032F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43254169-A674-4649-BB3B-282CB9032F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43254169-A674-4649-BB3B-282CB9032F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1833B2D9-5889-4AA2-93F9-B129D54BD2F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1833B2D9-5889-4AA2-93F9-B129D54BD2F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1833B2D9-5889-4AA2-93F9-B129D54BD2F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1833B2D9-5889-4AA2-93F9-B129D54BD2F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D63D46C-B822-4AAE-A682-D326F4521EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D63D46C-B822-4AAE-A682-D326F4521EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D63D46C-B822-4AAE-A682-D326F4521EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D63D46C-B822-4AAE-A682-D326F4521EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D00EE0CE-051F-400A-87B5-B20AE3EC2ABB}
+	EndGlobalSection
+EndGlobal

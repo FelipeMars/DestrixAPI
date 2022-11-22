@@ -1,0 +1,15 @@
+C:\repository\Destrix\DestrixAPI\Destrix.Infra\bin\Debug\net6.0\Destrix.Infra.deps.json
+C:\repository\Destrix\DestrixAPI\Destrix.Infra\bin\Debug\net6.0\Destrix.Infra.dll
+C:\repository\Destrix\DestrixAPI\Destrix.Infra\bin\Debug\net6.0\Destrix.Infra.pdb
+C:\repository\Destrix\DestrixAPI\Destrix.Infra\obj\Debug\net6.0\Destrix.Infra.csproj.AssemblyReference.cache
+C:\repository\Destrix\DestrixAPI\Destrix.Infra\obj\Debug\net6.0\Destrix.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\repository\Destrix\DestrixAPI\Destrix.Infra\obj\Debug\net6.0\Destrix.Infra.AssemblyInfoInputs.cache
+C:\repository\Destrix\DestrixAPI\Destrix.Infra\obj\Debug\net6.0\Destrix.Infra.AssemblyInfo.cs
+C:\repository\Destrix\DestrixAPI\Destrix.Infra\obj\Debug\net6.0\Destrix.Infra.csproj.CoreCompileInputs.cache
+C:\repository\Destrix\DestrixAPI\Destrix.Infra\obj\Debug\net6.0\Destrix.Infra.dll
+C:\repository\Destrix\DestrixAPI\Destrix.Infra\obj\Debug\net6.0\refint\Destrix.Infra.dll
+C:\repository\Destrix\DestrixAPI\Destrix.Infra\obj\Debug\net6.0\Destrix.Infra.pdb
+C:\repository\Destrix\DestrixAPI\Destrix.Infra\obj\Debug\net6.0\ref\Destrix.Infra.dll
+C:\repository\Destrix\DestrixAPI\Destrix.Infra\bin\Debug\net6.0\Destrix.Core.dll
+C:\repository\Destrix\DestrixAPI\Destrix.Infra\bin\Debug\net6.0\Destrix.Core.pdb
+C:\repository\Destrix\DestrixAPI\Destrix.Infra\obj\Debug\net6.0\Destrix.Infra.csproj.CopyComplete

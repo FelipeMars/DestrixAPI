@@ -1,0 +1,15 @@
+C:\repository\Destrix\DestrixAPI\Destrix.DTO\bin\Release\net6.0\Destrix.DTO.deps.json
+C:\repository\Destrix\DestrixAPI\Destrix.DTO\bin\Release\net6.0\Destrix.DTO.dll
+C:\repository\Destrix\DestrixAPI\Destrix.DTO\bin\Release\net6.0\Destrix.DTO.pdb
+C:\repository\Destrix\DestrixAPI\Destrix.DTO\bin\Release\net6.0\Destrix.Core.dll
+C:\repository\Destrix\DestrixAPI\Destrix.DTO\bin\Release\net6.0\Destrix.Core.pdb
+C:\repository\Destrix\DestrixAPI\Destrix.DTO\obj\Release\net6.0\Destrix.DTO.csproj.AssemblyReference.cache
+C:\repository\Destrix\DestrixAPI\Destrix.DTO\obj\Release\net6.0\Destrix.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\repository\Destrix\DestrixAPI\Destrix.DTO\obj\Release\net6.0\Destrix.DTO.AssemblyInfoInputs.cache
+C:\repository\Destrix\DestrixAPI\Destrix.DTO\obj\Release\net6.0\Destrix.DTO.AssemblyInfo.cs
+C:\repository\Destrix\DestrixAPI\Destrix.DTO\obj\Release\net6.0\Destrix.DTO.csproj.CoreCompileInputs.cache
+C:\repository\Destrix\DestrixAPI\Destrix.DTO\obj\Release\net6.0\Destrix.DTO.csproj.CopyComplete
+C:\repository\Destrix\DestrixAPI\Destrix.DTO\obj\Release\net6.0\Destrix.DTO.dll
+C:\repository\Destrix\DestrixAPI\Destrix.DTO\obj\Release\net6.0\refint\Destrix.DTO.dll
+C:\repository\Destrix\DestrixAPI\Destrix.DTO\obj\Release\net6.0\Destrix.DTO.pdb
+C:\repository\Destrix\DestrixAPI\Destrix.DTO\obj\Release\net6.0\ref\Destrix.DTO.dll

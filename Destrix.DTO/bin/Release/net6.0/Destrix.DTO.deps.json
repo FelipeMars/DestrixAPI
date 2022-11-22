@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Destrix.DTO/1.0.0": {
+        "dependencies": {
+          "Destrix.Core": "1.0.0"
+        },
+        "runtime": {
+          "Destrix.DTO.dll": {}
+        }
+      },
+      "Destrix.Core/1.0.0": {
+        "runtime": {
+          "Destrix.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Destrix.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Destrix.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
